@@ -6,14 +6,9 @@
   </h1>
 
   <nav class="main-menu">
-    <a href="#">Store ▾</a>
-    <a href="#">Community ▾</a>
-    <a href="#">Profile ▾</a>
-    <a href="#">About</a>
-    <a href="#">Support</a>
-    <a href="index.php">Home</a>
       <a href="login.php">Login</a>
       <a href="register.php">Register</a>
+      <input type="text" placeholder="Search..." class="catalog-search">
   </nav>
 
   <a href="#" class="install-steam">
@@ -30,10 +25,3 @@ Install Steam
     <img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/55/55e31493cc3bde5597be339f7b76327235027d86.jpg" alt="" class="avatar">
   </a>
 </header>
-
-<main class="main">
-
-  <a href="#" class="feature">
-    <img src="http://cdn.akamai.steamstatic.com/steam/clusters/frontpage/20c2376ce51067521d6712aa/page_bg_english.png?t=1446828489" alt="">
-  </a>
-</main>
