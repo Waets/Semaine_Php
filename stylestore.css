@@ -1,0 +1,215 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #1B2838;
+}
+
+.layout-positioner {
+  width: 938px;
+  margin: 0 auto;
+}
+
+.layout-positioner::after {
+  display: table;
+  content: "";
+  clear: both;
+}
+
+.header {
+  background: #171A21;
+}
+
+.logo,
+.menu {
+  float: left;
+  margin: 20px 0 20px 0;
+}
+
+.drop,
+.drop2 {
+  position: absolute;
+  display: none;
+  z-index: 1;
+}
+
+.list li:hover .drop {
+  display: block;
+  color: #B8B6B4;
+  font-family: verdana;
+}
+
+.list li {
+  display: inline-block;
+  font-size: 14px;
+  margin-right: 8px;
+}
+
+.list a {
+  text-decoration: none;
+  color: #B8B6B4;
+  font-family: verdana;
+}
+
+.drop li {
+  display: block;
+  background: #171A21;
+  font-size: 11px;
+  padding: 4px;
+  padding-left: 16px;
+  padding-right: 16px;
+  margin-left: -40px;
+}
+
+.drop li:nth-child(1) {
+  padding-top: 16px;
+}
+
+.drop li:nth-child(6) {
+  padding-bottom: 16px;
+}
+
+.drop a:hover,
+.list a:hover {
+  color: white;
+}
+
+.dloadbutton {
+  margin: 0 8px 0 0;
+  width: 121px;
+  height: 21px;
+  text-align: right;
+  float: right;
+  background-image: url("http://i.piccy.info/i9/888e43ebe1cff88f141ee33021a04365/1464703047/1566/1020259/but.png")
+}
+
+.dloadbutton a,
+.login a {
+  color: #D4D4D4;
+  text-decoration: none;
+  font-family: verdana;
+  font-size: 11px;
+}
+
+.dloadbutton a:hover,
+.login a:hover {
+  color: white;
+  text-decoration: none
+}
+
+.login {
+  float: right;
+  color: #D4D4D4;
+}
+
+.menu2 {
+  position: absolute;
+  float: left;
+  margin-left: -40px;
+}
+
+.menu2 a {
+  
+  padding: 10px 20px 10px 20px;
+  color: #5FBCDC;
+  text-decoration: none;
+}
+
+.menu2 li {
+  padding: 10px 0px 10px 0px;
+  background: #377293;
+  margin: 0 auto;
+  display: inline-block;
+  font-family: verdana;
+  font-size: 12px;
+  margin-right: -3px;
+}
+
+.menu2 a:hover {
+  color: white;
+  background: #212D3D;
+}
+
+.search {
+  float: right;
+  margin: 16px 0 0 4px;
+  background: #377293;
+  padding: 7px 7px 7px 56px;
+  margin-top : 0px;
+}
+
+.drop2 li {
+  display: block;
+  font-size: 11px;
+  margin-left: -40px;
+  padding: 10px 0 10px 0;
+}
+
+.drop2 li:nth-child(1) {
+  margin-top: 10px;
+}
+
+.menu2 li:hover .drop2 {
+  display: block;
+  color: #B8B6B4;
+  font-family: verdana;
+  padding-right: 30px;
+}
+
+.drop2 li:hover {
+  background: #212D3D;
+}
+
+.drop2 li:nth-child(5),
+.drop2 li:nth-child(17) {
+  color: black;
+  background: #377293;
+  padding: 6px 0 0 20px;
+  font-size: 10px;
+  border-top: 1px solid #1E1E1E;
+}
+.slider {
+  float:left;
+  margin:20px 0 0 0;
+}
+.sale{
+  float:right;
+  margin:20px 0 0 0;         background:url("http://i.piccy.info/i9/bfb1965919586fb09095e29c85177508/1464793183/1350/1020259/line.png");
+}
+.sale span {
+  color:#C7D5E0;
+  font-size:19px;
+  font-family:verdana;
+  padding: 0 0 10px 12px;
+}
+.sale p {
+  color:#9099A1;
+  font-family:verdana;
+  font-size:11px;
+  line-height:2px;
+  padding-left:10px;
+}
+.leftmenu  ul{
+  margin-left:-185px;
+  position:absolute;
+ color:white;
+  list-style-type:none;
+ font-family:verdana;
+  font-size:13px;
+ background: url("http://i.piccy.info/i9/45d141fca49edd189c98c004fe7622c5/1465224322/1992/1020259/s.png");
+ padding:20px;
+}
+.leftmenu span{
+  color:#3F7696;
+  font-size:12px;
+}
+.leftmenu ul li{
+  font-size:12px;
+  line-height:25px;
+}
+.leftmenu a{
+  color:#C7D5E0;
+  text-decoration:none;
+}
+.leftmenu a:hover{
+  color:white;
+}
