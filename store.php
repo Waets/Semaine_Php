@@ -24,7 +24,7 @@
               <li><a href="#">Accès anticipé</a></li>
               <li><a href="#">Demo</a></li>
               <li><a href="#">Réalité Virtuelle</a></li>
-              <li> Recherche par genre</li>
+              <li>Recherche par genre</li>
               <li><a href="#">Course</a></li>
               <li><a href="#">Indie</a></li>
               <li><a href="#">Casual Game</a></li>
