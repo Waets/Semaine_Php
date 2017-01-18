@@ -101,18 +101,18 @@
       </div>
      <div class="leftmenu">
 <ul>
-  <span>Поиск по жанру</span>
-  <li><a href="#">Бесплатно</li>
-  <li><a href="#">Ранний доступ</li>
-  <li><a href="#">Гонки</li>
-  <li><a href="#">Казуальная игра</li>
+  <span>Recherche par genre</span>
+  <li><a href="#">Libre</li>
+  <li><a href="#">Accès précoce</li>
+  <li><a href="#">Course</li>
+  <li><a href="#">Casual Game</li>
   <li><a href="#">ММО</li>
-  <li><a href="#">Приключенческая игра</li>
-  <li><a href="#">Ролевая игра</li>
-  <li><a href="#">Симулятор</li>
-  <li><a href="#">Спортивная игра</li>
-  <li><a href="#">Стратегия</li>
-  <li><a href="#">Экшен</li>
+  <li><a href="#">Jeu d'aventure</li>
+  <li><a href="#">Roleplay</li>
+  <li><a href="#">Simulateur</li>
+  <li><a href="#">Jeu de sport</li>
+  <li><a href="#">Stratégie</li>
+  <li><a href="#">Action</li>
   </ul></div>
       <!-- layout -->
     </div>  
