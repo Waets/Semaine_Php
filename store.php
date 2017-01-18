@@ -17,35 +17,34 @@
     <div class="layout-positioner">
       <div class="menu2">
         <ul class="list2">
-          <li><a href="#">Популярное</a></li>
-          <li><a href="#">Игры</a>
+          <li><a href="#">Populaire</a></li>
+          <li><a href="#">Jeux</a>
             <ul class="drop2">
-              <li><a href="#">Бесплатно</a></li>
-              <li><a href="#">Ранний доступ</a></li>
-              <li><a href="#">Демо</a></li>
-              <li><a href="#">Виртуальная реальность</a></li>
-              <li> Поиск по жанру</li>
-              <li><a href="#">Гонки</a></li>
-              <li><a href="#">Инди</a></li>
-              <li><a href="#">Казуальная игра</a></li>
+              <li><a href="#">Libre</a></li>
+              <li><a href="#">Accès anticipé</a></li>
+              <li><a href="#">Demo</a></li>
+              <li><a href="#">Réalité Virtuelle</a></li>
+              <li> Recherche par genre</li>
+              <li><a href="#">Course</a></li>
+              <li><a href="#">Indie</a></li>
+              <li><a href="#">Casual Game</a></li>
               <li><a href="#">ММО</a></li>
-              <li><a href="#">Приключенческая игра</a></li>
-              <li><a href="#">Ролевая игра</a></li>
-              <li><a href="#">Симулятор</a></li>
-              <li><a href="#">Спортивная игра</a></li>
-              <li><a href="#">Стгратегия</a></li>
-              <li><a href="#">Экшен</a></li>
-              <li><a href="#">Популярные метки</a></li>
-              <li> Просмотр по платформе</li>
+              <li><a href="#">Jeu d'aventure</a></li>
+              <li><a href="#">Roleplay</a></li>
+              <li><a href="#">Simulateur</a></li>
+              <li><a href="#">Jeu de sport</a></li>
+              <li><a href="#">Strategie</a></li>
+              <li><a href="#">Action</a></li>
+              <li> Recherche par plate-forme</li>
               <li><a href="#">MAC OS X</a></li>
-              <li><a href="#">Steam OS и Linux</a></li>
+              <li><a href="#">Steam OS et Linux</a></li>
             </ul>
           </li>
-          <li><a href="#">Программы</a></li>
-          <li><a href="#">Устройства</a></li>
-          <li><a href="#">Видео</a></li>
-          <li><a href="#">Новости</a></li>
-          <li><a href="#">Для Вас</a></li>
+          <li><a href="#">Programmes</a></li>
+          <li><a href="#">Appareils</a></li>
+          <li><a href="#">Vidéo</a></li>
+          <li><a href="#">Nouvelles</a></li>
+          <li><a href="#">Pour vous</a></li>
         </ul>
       </div>
       <!-- menu2 -->
@@ -77,8 +76,8 @@
        <!-- slider -->
     </div>
     <div class="sale"><a href="#"><img src="http://i.piccy.info/i9/ec29ca95fb451fd1a9b48d66a8175d00/1464792848/155793/1020259/a.png"></img></a>
-    <div class="sale_info"><span>Акция  посреди недели</span><p>новый OUTLANDS PACK уже доступен<p>
-Предложение заканчивается в пятницу, в<p> 20:00 по московскому времени.</div>
+    <div class="sale_info"><span>Vente de la semaine.</span><p> Meilleur vente de la semaine<p>
+Jeu en promotion jusqu'à la procaine démarche.<p> 20:00 heure de Paris.</div>
        <!-- sale -->
     </div>
        <!-- layout -->
