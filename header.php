@@ -1,6 +1,6 @@
 <header class="topbar">
   <h1 class="brand">
-    <a href="#">
+    <a href="index.php">
       <img src="http://store.akamai.steamstatic.com/public/shared/images/header/globalheader_logo.png" alt="Steam">
     </a>
   </h1>
@@ -8,13 +8,9 @@
   <nav class="main-menu">
       <a href="login.php">Login</a>
       <a href="register.php">Register</a>
-      <input type="text" placeholder="Search..." class="catalog-search">
+      <a href="store.php">Store</a>
+      <a href="profil.php">Profil</a>
   </nav>
-
-  <a href="#" class="install-steam">
-    <span class="octicon octicon-desktop-download"></span>
-Install Steam
-</a>
 
   <a href="#" class="alerts" data-number="5">
     <span class="octicon octicon-mail"></span>

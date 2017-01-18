@@ -24,7 +24,7 @@
       </div>
       <div class="menu">
         <ul class="list">
-          <li><a href="#">МАГАЗИН</a>
+          <li><a href="#">Traduction</a>
             <ul class="drop">
               <li><a href="#">ПОПУЛЯРНОЕ</a></li>
               <li><a href="#">ВВЕДЕНИЕ</a></li>

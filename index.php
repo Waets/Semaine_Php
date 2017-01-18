@@ -48,59 +48,6 @@
     </a>
 </div>
 
-<div class="container">
-    <div class="row">
-        <div class="col-md-10 col-md-offset-1">
-            <div class="">
-                <h1 class="animated FadeInDown">
-                    CATEGORIES<hr>
-                </h1> 
-                <button type="button" onclick="All();"  class="btn btn-success">All</button>
-                <button type="button" onclick="Website();" class="btn btn-success">Website</button>
-                <button type="button" onclick="Branding();" class="btn btn-success">Branding</button>
-            </div>  
-        </div>
-    </div>
-</div>
-
-</header>
-
-<section class="services" id="resultat">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-4">
-                <div class="service text-center wow FadeInLeft section">
-                    <img src="img/moi.jpg" alt="" class="img-responsive roundedImage center-block"/>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="service text-center wow FadeInLeft section">
-                    <img src="img/Partie2.jpg" alt="" class="img-responsive roundedImage center-block"/>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="service text-center wow FadeInRight section">
-                    <img src="img/tête.jpg" alt="" class="img-responsive roundedImage center-block"/>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="service text-center wow FadeInRight section">
-                   <img src="img/bg.jpg" alt="" class="img-responsive roundedImage center-block"/>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="service text-center wow FadeInRight section">
-                    <img src="img/article.jpg" alt="" class="img-responsive roundedImage center-block"/>
-                </div>
-            </div>
-            <div class="col-md-4">
-                <div class="service text-center wow FadeInRight section">
-                    <img src="img/medaille.jpg" alt="" class="img-responsive roundedImage center-block"/>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
