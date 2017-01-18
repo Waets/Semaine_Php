@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>BAPPOST</title>
+    <title>EXO2</title>
     <meta charset="">
     <meta name="viewport" content="width=device-width">
 
@@ -27,14 +27,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand animated FadeInDown" href="#">BAP</a>
+                <a class="navbar-brand animated FadeInDown" href="#">Exo2</a>
                 <a class="navbar-brand" <?php session_start(); echo"<h2>Bienvenue ". $_SESSION['username'] . " !</h2>"; ?></a>
             </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right animated FadeInDown">
                     <li><a href="index.php">Home</a></li>
-                    <li><a href="register.php">Login</a></li>
+                    <li><a href="login.php">Login</a></li>
+                    <li><a href="register.php">Register</a></li>
                     </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
