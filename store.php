@@ -1,4 +1,4 @@
-<html>
+<?php include "header.php" ?><html>
 <head>
     <title>EXO2</title>
     <meta charset="">
@@ -10,53 +10,9 @@
     <link rel="stylesheet" type="text/css">
     <link href="css/stylestore.css" rel="stylesheet">
     <link href="css/animate.css" rel="stylesheet">
-    
-
+    <link href="css/style.css" rel="stylesheet">
 
 </head>
-<body>
-  <div class="header">
-    <div class="layout-positioner">
-      <div class="logo">
-        <a href="#"><img src="http://store.akamai.steamstatic.com/public/shared/images/header/globalheader_logo.png">
-          </img>
-        </a>
-      </div>
-      <div class="menu">
-        <ul class="list">
-          <li><a href="#">Traduction</a>
-            <ul class="drop">
-              <li><a href="#">ПОПУЛЯРНОЕ</a></li>
-              <li><a href="#">ВВЕДЕНИЕ</a></li>
-              <li><a href="#">КУРАТОРЫ</a></li>
-              <li><a href="#">СПИСОК ЖЕЛАЕМОГО</a></li>
-              <li><a href="#">НОВОСТИ</a></li>
-              <li><a href="#">СТАТИСТИКА</a></li>
-            </ul>
-          </li>
-          <li><a href="#">СООБЩЕСТВО</a>
-            <ul class="drop">
-              <li><a href="#">ГЛАВНАЯ</a></li>
-              <li><a href="#">ОБСУЖДЕНИЯ</a></li>
-              <li><a href="#">МАСТЕРСКАЯ</a></li>
-              <li><a href="#">GREENLIGHT</a></li>
-              <li><a href="#">ТОРГОВАЯ ПЛОЩАДКА</a></li>
-              <li><a href="#">ТРАНСЛЯЦИИ</a></li>
-            </ul>
-          </li>
-          <li><a href="#">О STEAM</a></li>
-          <li><a href="#">ПОДДЕРЖКА</a></li>
-        </ul>
-      </div>
-
-
-      <div class="login"><a href="#">войти</a> |
-        <a href="#"> язык</a>
-      </div>
-      <div class="dloadbutton"><a href="#">Загрузить Steam</a></div>
-    </div>
-  </div>
-  </div>
   <div class="container">
     <div class="layout-positioner">
       <div class="menu2">
