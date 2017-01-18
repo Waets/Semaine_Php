@@ -10,7 +10,10 @@
       <a href="register.php">Register</a>
       <a href="store.php">Store</a>
       <a href="profil.php">Profil</a>
+      <a href="#"><i class="glyphicon glyphicon-shopping-cart"></i></a>
   </nav>
+
+
 
   <a href="profile.php" class="profile">
     <span class="name-and-balance"><?php session_start(); echo $_SESSION['username']; ?><br> $ 0,00</span>
