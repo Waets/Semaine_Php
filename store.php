@@ -57,7 +57,7 @@
       </div>
      <div class="leftmenu">
 <ul>
-  <span>Recherche par genre</span>
+  <span>Parcourir les catégories</span>
   <li><a href="#">Libre</li>
   <li><a href="#">Accès précoce</li>
   <li><a href="#">Course</li>
