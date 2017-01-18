@@ -163,3 +163,176 @@ textarea {
   color: #fff !important;
   background: #5cb85c !important;
 }
+
+/* steam css */
+
+body {
+    font: 16px/1.25 JAF Bernino Sans, sans-serif;
+    color: white;
+    background: black;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.topbar {
+    display: flex;
+    padding: 0 calc(50% - 35em);
+    height: 6em;
+    background: linear-gradient(175deg, #1e1e22, mix(#1e1e22, black, 75%));
+    align-items: center;
+    color: rgba(white, .75);
+    box-shadow: 0 0 .75em black;
+
+}
+
+.topbar a {
+  &:hover {
+    color: white;
+  }
+}
+
+.topbar .brand {
+  margin-right: 2.25em;
+  top: .25em;
+  position: relative;
+}
+
+.topbar .main-menu {
+  flex-grow: 1;
+}
+
+.topbar .main-menu a {
+  padding: .75em;
+}
+
+.topbar .install-steam {
+  font-size: .875em;
+  padding: .25em .5em;
+  background: rgba(springgreen, .5);
+  border-radius: .125em;
+  box-shadow: inset 0 -.375em .5em rgba(black, .375);
+  display: inline-block;
+  margin-right: 3em;
+}
+
+.topbar .alerts {
+  font-size: 1.5em;
+  border-radius: .125em;
+  display: inline-block;
+  width: 1.5em;
+  text-align: center;
+  margin-right: .75em;
+  position: relative;
+
+  .octicon {
+    font-size: 1em;
+  }
+
+  &:after {
+    content: attr(data-number);
+    position: absolute;
+    font-size: .75rem;
+    background: brown;
+    color: white;
+    padding: 0 .25em;
+    border-radius: .125rem;
+    left: 50%;
+    text-align: center;
+    top: 0;
+    box-shadow: 0 .25em .375em rgba(black, .5), inset 0 -.375em .5em rgba(black, .25);
+  }
+}
+
+.topbar .profile {
+  display: flex;
+  align-items: center;
+}
+
+.topbar .profile .name-and-balance {
+  font-size: .75em;
+  text-align: right;
+}
+
+.topbar .profile .avatar {
+  border-radius: .125em;
+  border: 2px solid steelblue;
+  margin-left: .75em;
+}
+
+//-
+
+.catalog-menu {
+  width: 70em;
+  margin: 0 auto;
+  height: 2.25em;
+  display: flex;
+  margin-bottom: -3.75em;
+  margin-top: 1.5em;
+  position: relative;
+  color: lightskyblue;
+
+  > *:first-child {
+    border-radius: .125em 0 0 .125em;
+  }
+
+  > *:last-child {
+    border-radius: 0 .125em .125em 0;
+  }
+}
+
+.catalog-menu a {
+  display: flex;
+  align-items: center;
+  padding: 0 .75em;
+  font-size: .875em;
+  background: rgba(steelblue, .75);
+  margin-right: 1px;
+
+  &:hover {
+    color: white;
+    background: linear-gradient(170deg, steelblue, mix(steelblue, black, 62.5%));
+  }
+
+  .octicon {
+    margin-right: .375em;
+  }
+}
+
+.catalog-search {
+  flex-grow: 1;
+  display: block;
+  margin: 0;
+  flex-grow: 1;
+  background: rgba(steelblue, .75);
+  font: .875em/1.25 sans-serif;
+  font-family: inherit;
+  border: 0;
+  color: lightskyblue;
+  padding: 0 .75em;
+  border-radius: 0;
+
+  &::-webkit-input-placeholder {
+    color: inherit;
+  }
+
+  &:focus {
+    outline: 0;
+    color: black;
+    background: whitesmoke;
+    box-shadow: inset 0 0 .375em rgba(black, .75);
+  }
+}
+
+.feature {
+  overflow: hidden;
+  width: 100%;
+  outline: 1px dotted red;
+}
+
+.feature img {
+  width: 100%;
+  display: block;
+}
