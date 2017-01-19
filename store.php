@@ -74,6 +74,9 @@
     </div>  
      <div class="layout-positioner">
      <div class="slider"><a href="#"><img src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
+         <div class="layout-positioner">
+     <div class="slider"><a href="#"><img src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
+
        <!-- slider -->
     </div>
     <div class="sale"><a href="#"><img src="http://i.piccy.info/i9/ec29ca95fb451fd1a9b48d66a8175d00/1464792848/155793/1020259/a.png"></img></a>
