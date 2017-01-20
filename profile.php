@@ -1,4 +1,4 @@
-<html>
+<?php include "header.php" ?><html>
 <head>
     <title>EXO2</title>
     <meta charset="">

@@ -1,3 +1,19 @@
+<html>
+<head>
+    <title>EXO2</title>
+    <meta charset="">
+    <meta name="viewport" content="width=device-width">
+
+    <!--style -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+          integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css">
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+
+</head>
+<body>
 <header class="topbar">
     <h1 class="brand">
         <a href="index.php">
@@ -10,7 +26,7 @@
         <a href="login.php">Login</a>
         <a href="register.php">Register</a>
         <a href="store.php">Store</a>
-        <a href="profil.php">Profil</a>
+        <a href="profile.php">Profil</a>
         <a href="panier.php"><i class="glyphicon glyphicon-shopping-cart"></i></a>
     </nav>
 
@@ -22,3 +38,6 @@
              alt="" class="avatar">
     </a>
 </header>
+</body>
+
+</html>
