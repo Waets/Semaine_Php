@@ -4,6 +4,10 @@ body {
 h2{
   color: white;
 }
+
+a {
+  color: grey;
+}
 .panel-heading, .panel-body {
    border-radius: 0px;
 }
