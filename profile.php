@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 <?php include "header.php" ?>
 <html>
+=======
+<?php session_start(); ?>
+<?php include "header.php" ?><html>
+>>>>>>> master
 <head>
     <title>EXO2</title>
     <meta charset="">

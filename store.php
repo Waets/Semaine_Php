@@ -79,16 +79,8 @@
         <!-- layout -->
     </div>
     <div class="layout-positioner">
-        <div class="slider"><a href="#"><img
-                        src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
-            <div class="layout-positioner">
-                <div class="slider"><a href="#"><img
-                                src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
-
-                    <!-- slider -->
-                </div>
-                <div class="sale"><a href="#"><img
-                                src="http://i.piccy.info/i9/ec29ca95fb451fd1a9b48d66a8175d00/1464792848/155793/1020259/a.png"></img></a>
+        <div class="slider">
+          <a href="#"><img src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a> <div class="sale"><a href="#"><img src="http://i.piccy.info/i9/ec29ca95fb451fd1a9b48d66a8175d00/1464792848/155793/1020259/a.png"></img></a>
                     <div class="sale_info"><span>Vente de la semaine.</span>
                         <p> Meilleur vente de la semaine
                         <p>
@@ -97,6 +89,25 @@
                     <!-- sale -->
                     <!-- container -->
                 </div>
+            <div class="layout-positioner">
+                <div class="slider">
+                 <a href="#"><img src="http://unknownworlds.com/subnautica/files/2014/12/MainCapsuleImage_FINAL-618x354.jpg"></img></a>
+                  <!-- slider -->
+                </div>
+                 <div class="sale"><a href="#"><img src="http://www.pjlighthouse.com/wp-content/uploads/2007/07/allstars-dota-v643bai-v14-map-pjlighthouse-seo.jpg"></img></a>
+                    <div class="sale_info"><span>Jeu en promotion.</span>
+                        <p> Promo de la semaine
+                        <p>
+                            Jeu en promotion jusqu'à la procaine démarche.
+                        <p> 20:00 heure de Paris.</div>
+                    <!-- sale -->
+                    <!-- container -->
+                </div>
+                <div class="slider">
+                 <a href="#"><img src="http://download.gamezone.com/uploads/image/data/1147824/article_post_width_tomb_raider_online_survival_pack.jpg"></img></a>
+                  <!-- slider -->
+                </div>
+               
 </body>
 
 </html>
