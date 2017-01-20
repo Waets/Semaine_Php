@@ -13,6 +13,7 @@
     <link href="css/style.css" rel="stylesheet">
 
 </head>
+<body>
   <div class="container">
     <div class="layout-positioner">
       <div class="menu2">
@@ -73,20 +74,45 @@
     </div>  
      <div class="layout-positioner">
      <div class="slider"><a href="#"><img src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
+         <div class="layout-positioner">
+     <div class="slider"><a href="#"><img src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
+
        <!-- slider -->
     </div>
     <div class="sale"><a href="#"><img src="http://i.piccy.info/i9/ec29ca95fb451fd1a9b48d66a8175d00/1464792848/155793/1020259/a.png"></img></a>
     <div class="sale_info"><span>Vente de la semaine.</span><p> Meilleur vente de la semaine<p>
 Jeu en promotion jusqu'à la procaine démarche.<p> 20:00 heure de Paris.</div>
        <!-- sale -->
-    </div>
-       <!-- layout -->
-       </div>
-
-
     <!-- container -->
   </div>  
-
+<footer class="footer-distributed ">
+        <div class="footer-left ">
+            <h3>TiBO<span>IPTV</span></h3>
+            <div>
+                <p class="footer-company-name ">TiBO IPTV &copy; 2015</p>
+            </div>
+        </div>
+        <div class="footer-center ">
+            <div>
+                <i class="fa fa-map-marker "></i>
+                <p><span>Blv Gjergj Fishta , Pll G&P,Kati II 1001 </span> Tirane, Albania</p>
+            </div>
+            <div>
+                <i class="fa fa-phone "></i>
+                <p>+355 67 600 67 67</p>
+            </div>
+            <div>
+                <i class="fa fa-envelope "></i>
+                <p><a href="mailto:info@tibo.tv ">info@tibo.tv</a></p>
+            </div>
+        </div>
+        <div class="footer-right ">
+            <p class="footer-company-about ">
+                <span>About the company</span>
+                Lorem ipsum dolor sit amet, consectateur adispicing elit. Fusce euismod convallis velit, eu auctor lacus vehicula sit amet.
+            </p>
+        </div>
+    </footer>
 </body>
 
 </html>
