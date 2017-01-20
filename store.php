@@ -23,13 +23,8 @@
                 <li><a href="#">Populaire</a></li>
                 <li><a href="#">Jeux</a>
                     <ul class="drop2">
-                        <li><a href="#">Libre</a></li>
-                        <li><a href="#">Accès anticipé</a></li>
-                        <li><a href="#">Demo</a></li>
-                        <li><a href="#">Réalité Virtuelle</a></li>
                         <li>Recherche par genre</li>
                         <li><a href="#">Course</a></li>
-                        <li><a href="#">Indie</a></li>
                         <li><a href="#">Casual Game</a></li>
                         <li><a href="#">ММО</a></li>
                         <li><a href="#">Jeu d'aventure</a></li>
