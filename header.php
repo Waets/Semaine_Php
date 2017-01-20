@@ -10,7 +10,7 @@
       <a href="register.php">Register</a>
       <a href="store.php">Store</a>
       <a href="profil.php">Profil</a>
-      <a href="#"><i class="glyphicon glyphicon-shopping-cart"></i></a>
+      <a href="panier.php"><i class="glyphicon glyphicon-shopping-cart"></i></a>
   </nav>
 
 
