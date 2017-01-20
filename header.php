@@ -25,17 +25,13 @@
     </h1>
 
     <nav class="main-menu">
-<<<<<<< HEAD
+
         <a href="login.php">Login</a>
         <a href="logout.php">Logout</a>
         <a href="register.php">Register</a>
-=======
-           <a href="login.php">Log in</a>
-           <a href="signin.php">Sign in</a>
-           <a href="logout.php">Logout</a>  
->>>>>>> master
         <a href="store.php">Store</a>
         <a href="profile.php">Profil</a>
+        <a href="course.php">Barre de recherche</a>
         <a href="panier.php"><i class="glyphicon glyphicon-shopping-cart"></i></a>
     </nav>
 
