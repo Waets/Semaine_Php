@@ -24,6 +24,7 @@
 
     <nav class="main-menu">
         <a href="login.php">Login</a>
+        <a href="logout.php">Logout</a>
         <a href="register.php">Register</a>
         <a href="store.php">Store</a>
         <a href="profile.php">Profil</a>
