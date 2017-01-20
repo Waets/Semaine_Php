@@ -1,3 +1,5 @@
+<?php session_start(); ?>
+
 <html>
 <head>
     <title>EXO2</title>
@@ -23,8 +25,9 @@
     </h1>
 
     <nav class="main-menu">
-        <a href="login.php">Login</a>
-        <a href="register.php">Register</a>
+           <a href="login.php">Log in</a>
+           <a href="signin.php">Sign in</a>
+           <a href="logout.php">Logout</a>  
         <a href="store.php">Store</a>
         <a href="profile.php">Profil</a>
         <a href="panier.php"><i class="glyphicon glyphicon-shopping-cart"></i></a>
@@ -32,10 +35,10 @@
 
 
     <a href="profile.php" class="profile">
-        <span class="name-and-balance"><?php session_start();
-            echo $_SESSION['username']; ?><br> $ 0,00</span>
-        <img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/55/55e31493cc3bde5597be339f7b76327235027d86.jpg"
-             alt="" class="avatar">
+      <span class="name-and-balance"><?php session_start();echo $_SESSION['username']; ?>
+            <br> $ 0,00
+          </span>
+      <img src="http://cdn.akamai.steamstatic.com/steamcommunity/public/images/avatars/55/55e31493cc3bde5597be339f7b76327235027d86.jpg"alt="" class="avatar">
     </a>
 </header>
 </body>
