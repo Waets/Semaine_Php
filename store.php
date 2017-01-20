@@ -23,6 +23,7 @@
                 <li><a href="#">Populaire</a></li>
                 <li><a href="#">Jeux</a>
                     <ul class="drop2">
+
                         <li><a href="#">Libre</a></li>
                         <li><a href="#">Accès anticipé</a></li>
                         <li><a href="#">Demo</a></li>
@@ -30,6 +31,8 @@
                         <li>Recherche par genre</li>
                         <li><a href="#">Course</a></li>
                         <li><a href="#">Indie</a></li>
+                        <li>Recherche par genre</li>
+                        <li><a href="#">Course</a></li>
                         <li><a href="#">Casual Game</a></li>
                         <li><a href="#">ММО</a></li>
                         <li><a href="#">Jeu d'aventure</a></li>
@@ -78,6 +81,12 @@
     <div class="layout-positioner">
         <div class="slider"><a href="#"><img
                         src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
+            <div class="layout-positioner">
+                <div class="slider"><a href="#"><img
+                                src="http://i.piccy.info/i9/df19c8e92c78b253439516073ba69d37/1464790839/86509/1020259/gta.jpg"></img></a>
+
+                    <!-- slider -->
+                </div>
                 <div class="sale"><a href="#"><img
                                 src="http://i.piccy.info/i9/ec29ca95fb451fd1a9b48d66a8175d00/1464792848/155793/1020259/a.png"></img></a>
                     <div class="sale_info"><span>Vente de la semaine.</span>

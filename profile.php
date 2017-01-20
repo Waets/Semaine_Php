@@ -1,4 +1,4 @@
-<html>
+<?php include "header.php" ?><html>
 <head>
     <title>EXO2</title>
     <meta charset="">
@@ -22,7 +22,6 @@
             </li>
             <!-- notification dropdown -->      
             <li class="message-nav dropdown">
-               <a href="#" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
                   <ul class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdownMenu1">
                      <li class="notification-title">
                         <h4>Notification</h4>
